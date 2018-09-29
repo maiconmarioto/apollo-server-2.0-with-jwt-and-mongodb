@@ -30,5 +30,5 @@ $ npm start
 http://localhost:8080/graphql
 ```
 
-check config.js for MongoDB and secret password for jwt.
+check config.js for MongoDB and jwt secret key.
 
